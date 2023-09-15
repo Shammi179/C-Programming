@@ -1,0 +1,13 @@
+void foo()
+{
+     int x = 5;
+    x++;
+    printf("%d", x);
+}
+
+int main()
+{
+    foo();
+    foo();
+    return 0;
+}
